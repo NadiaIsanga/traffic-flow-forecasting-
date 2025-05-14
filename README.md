@@ -44,5 +44,9 @@ Findings inform traffic control strategies across key highway intersections in N
 - Node 25 (central sensor) had the most accurate forecasts due to network positioning.
 - Spatial relationships (via Granger causality) and weather variables enriched model reliability.
 
+## Preview 
+![image](https://github.com/user-attachments/assets/8b85764c-2fa8-4f4e-bc94-fce7e8cdea8b)
+
+
 
 
